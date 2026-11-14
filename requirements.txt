@@ -1,0 +1,2 @@
+# Only the Python standard library is used (decimal, math, json, time, timeit, sys, random, tracemalloc, pathlib, subprocess, code).
+# No pip install needed. Python version used: 3.12
